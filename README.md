@@ -71,10 +71,7 @@ The ESP8266 collects the data, displays it locally on a 16x2 I²C LCD, and serve
 
 ---
 
-🖼 Screenshots
-_Add screenshots of your web interface and hardware setup here._
 
----
 
 
 
